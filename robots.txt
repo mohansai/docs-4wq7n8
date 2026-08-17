@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-5outkc.nuansa138b.space/sitemap.xml
